@@ -9,7 +9,8 @@ I analyzed the sales of a Superstore in the United States over a period of four 
 * Sales by geograhical location
 * Sales by product
 
-Table of Contents
+<h2>Table of Contents</h2>
+
 * [Sales by Category](https://github.com/Outis09/Superstore-Sales-Report#sales-by-category-and-sub-category)
 
 <div align="center">
