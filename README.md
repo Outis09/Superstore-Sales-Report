@@ -6,15 +6,15 @@ I analyzed the sales of a Superstore in the United States over a period of four 
 
 * Sales by category and sub-category
 * Analysis of least profitable sub-categories
-* Sales by geograhical location
+* Sales by geographical location
 * Sales by product
 
 <h2>Table of Contents</h2>
 
-* [Sales by Category](https://github.com/Outis09/Superstore-Sales-Report#sales-by-category-and-sub-category)
+* [Sales by Category](#sales-by-category-and-sub-category)
 
 <div align="center">
-  <h2>[Sales by Category and Sub-category]</h2>
+  <h2>Sales by Category and Sub-category</h2>
 </div>
 
 ![0001](https://user-images.githubusercontent.com/104911707/193447508-2c75bc6f-c730-49ad-b04c-e6fe23958380.png)
@@ -150,6 +150,6 @@ Of the sub-categories, Phones had the most sales with $106K followed by Chairs a
 
 The highest sales in a month was recorded in November. 
 
-
+<h2>Analysis of Least Profitable Sub-categories</h2>
 
 
