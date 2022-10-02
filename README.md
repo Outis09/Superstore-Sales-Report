@@ -329,4 +329,49 @@ The reports below represent a breakdown the report above.
     <h2>Sales by Product</h2>
 </div>
 
+![004](https://user-images.githubusercontent.com/104911707/193468076-3f515c26-81bf-4caf-baf7-1e621e7bab57.png)
+
+
+The product that amaassed the most sales is the Canon imageCLASS 2200 Advanced Copier and the most ordered product was Staples.
+
+Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac was the product with the least sales.
+
+
+<div align="center">
+    <h2>2013</h2>
+</div>
+
+![2222](https://user-images.githubusercontent.com/104911707/193468311-2a838dea-c3dd-4e36-acbe-0e98572fea14.png)
+
+
+<div align="center">
+    <h2>2014</h2>
+</div>
+
+![2014-03](https://user-images.githubusercontent.com/104911707/193468409-819b491e-fc9a-4034-aff5-e1d8f0021d8d.png)
+
+
+<div align="center">
+    <h2>2015</h2>
+</div>
+
+![2015-03](https://user-images.githubusercontent.com/104911707/193468478-8a891da1-10cf-412a-afad-18603d5773f1.png)
+
+
+<div align="center">
+    <h2>2016</h2>
+</div>
+
+![2016-02](https://user-images.githubusercontent.com/104911707/193468516-ea02bda6-605c-4d32-b896-174528b71ff3.png)
+
+
+
+
+
+
+
+
+
+
+
 
