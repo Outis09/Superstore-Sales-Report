@@ -202,3 +202,41 @@ A break down of the profits for these categories can be found in the text box un
 <div align="center">
     <h2>Sales by Geographical location</h2>
 </div>
+
+![003](https://user-images.githubusercontent.com/104911707/193466664-f2006b2b-f302-482e-ab8a-fbbbc7a90ca6.png)
+
+California, New York and Texas were the top 3 states in terms of sales whiles Maine, West Virgina and North Dakota were the bottom 3.
+
+The ribbon chart used in the report above visualizes the sales for all four regions over the four year period.
+
+The West region with total sales of $725.5K was the region with the most sales.
+
+The reports below represent a breakdown the report above.
+
+<div align="center">
+  <h3>Central</h3>
+</div>
+
+![cent](https://user-images.githubusercontent.com/104911707/193466967-a2c8156d-3722-463b-91a6-3b267e745a46.png)
+
+<div align="center">
+  <h3>East</h3>
+</div>
+
+![east](https://user-images.githubusercontent.com/104911707/193467103-d281d71b-818c-4803-bdd9-f8e1008901d7.png)
+
+
+<div align="center">
+  <h3>South</h3>
+</div>
+
+![south](https://user-images.githubusercontent.com/104911707/193467268-b0414856-b758-40ee-969b-a45571540e70.png)
+
+<div align="center">
+  <h3>West</h3>
+</div>
+
+![west](https://user-images.githubusercontent.com/104911707/193467339-d9a4c3ed-e3ba-41ae-9ded-3493055fdabe.png)
+
+
+
