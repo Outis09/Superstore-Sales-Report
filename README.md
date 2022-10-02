@@ -198,4 +198,6 @@ Tables, Bookcases and Supplies recorded losses over the four year period.
 
 A break down of the profits for these categories can be found in the text box under the line charts in the graphs above.
 
-## Sales by geographical location##
+<div align="center">
+    <h2>Sales by Geographical location</h2>
+</div>
