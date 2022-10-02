@@ -41,4 +41,14 @@ Even though the above report is statis, the original report is interactive.
 
 A video demonstrating how interactive the report is can be found on [Twitter](https://twitter.com/samuelayer07/status/1575169059104358400).
 
+The following images depict the breakdown of the report above by year.
+
+
+<div align="center">
+  <h3>2013</h3>
+</div>
+
+![2013](https://user-images.githubusercontent.com/104911707/193449586-a168f722-a9d7-48e6-80cf-4a826c31f246.png)
+
+
 
