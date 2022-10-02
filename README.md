@@ -197,3 +197,5 @@ Tables were the least profitable sub-category. Followed by Bookcases, Supplies, 
 Tables, Bookcases and Supplies recorded losses over the four year period.
 
 A break down of the profits for these categories can be found in the text box under the line charts in the graphs above.
+
+## Sales by geographical location##
