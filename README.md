@@ -13,13 +13,12 @@ I analyzed the sales of a Superstore in the United States over a period of four 
 
 ![0001](https://user-images.githubusercontent.com/104911707/193447508-2c75bc6f-c730-49ad-b04c-e6fe23958380.png)
 
-KPIs:
+**KPIs:**
+* Sales - $2.3M
+* Profit - $286.4k
+* Discounts - $1.6K
+* Orders - 38K
 
-Over the four year period;
-* The superstore made a total of $2.3M in sales
-* The superstore realized a profit of $286.4K
-* There were 38k orders
-* The superstore offered discounts amounting to $1.6K
 
 Technology with total sales of $836K was the highest category in sales followed by Furniture with $742K and lastly, Office Supplies with $719K sales.
 
@@ -35,9 +34,9 @@ The second sub-category with the most sales was Chairs from the Furniture catego
 
 The third highest sub-category in terms of sales was Storage from the Office Supplies category. It made $224K in sales.
 
-From the line chart, it is evident sales took a dip in 2014. However, profit and orders increased by 24% and 5.2% respectively.
+From the line chart, it is evident sales took a dip in 2014. However in the same year, profit and orders increased by 24% and 5.2% respectively.
 
-Even though the above report is statis, the original report is interactive.
+Even though the above report is static, the original report is interactive.
 
 A video demonstrating how interactive the report is can be found on [Twitter](https://twitter.com/samuelayer07/status/1575169059104358400).
 
@@ -48,13 +47,50 @@ The following images depict the breakdown of the report above by year.
   <h3>2013</h3>
 </div>
 
-![2013](https://user-images.githubusercontent.com/104911707/193449586-a168f722-a9d7-48e6-80cf-4a826c31f246.png)
+![2013-02](https://user-images.githubusercontent.com/104911707/193450969-eb26d388-8796-4544-8bcf-f00d39d56f46.png)
+
+
+**KPIs:**
+* Sales - $484.2K
+* Profit - $49.5K
+* Discount - $315.5
+* Orders - 7581
+
+Technology made the most sales followed by Furniture then Office Supplies.
+
+Office Supplies accounted for 45.6% of total profit in 2013. Technology accounted for 43.38% and Furniture accounted for 11.02%.
+
+Office Supplies had the most orders with 4.6K orders followed by Furniture and Technology with 1.6K and 1.4K orders respectively.
+
+Phones, Chairs and Machines were the top 3 sub-categories in terms of sales.
+
+The Superstore made the most sales in September with $81.8K sales.
 
 <div align="center">
   <h3>2014</h3>
 </div>
 
-![2014](https://user-images.githubusercontent.com/104911707/193449787-9182447b-9ee6-46f1-a262-068500439b02.png)
+![2014-02](https://user-images.githubusercontent.com/104911707/193450733-a02ceba9-8a5c-4a3d-9064-10eb323e1069.png)
+
+**KPIs:**
+* Sales - $470K
+* Profit - $61.6K
+* Discount - $327.1
+* Orders - 7979
+
+Furniture made the most sales in 2014 followed by Technology and Office Supplies.
+
+Technology accounted for 54.37% of total profit n 2014. Office Supplies and Furniture accounted for 40.73% and 4.89% respectively.
+
+Office Supplies, the most ordered, had 4.7K orders. An increase of 100 from 2013. 
+
+Furniture had 1.8K orders. An increase of 200 from 2013.
+
+Technology had 1.5K orders which is an increase of 100 from 2013.
+
+Chairs, Phones and Storage were the top 3 sub-categories in terms of sales.
+
+The most sales was recorded in November with $76K sales.
 
 
 <div align="center">
@@ -63,12 +99,40 @@ The following images depict the breakdown of the report above by year.
 
 ![2015](https://user-images.githubusercontent.com/104911707/193449859-6cc302b4-4b21-4c5c-80c7-57100dcc782b.png)
 
+**KPIs:**
+* Sales - $608.5K
+* Profit - $81.7K
+* Discount - $399.1
+* Orders - 9810
+
+Technology made the most sales in 2015. It made a total of $226K sales which is an increase of 38.7% from 2014.
+
+Furniture made sales amounting to $119K which is an increase of 16.4% from 2014.
+
+Office Supplies made the least sales with its total sales amounting to $184K. However, this was an increase of 34.3% from 2014.
+
+Technology accounted for 48.64% of total profit followed by Office Supplies which accounted for 42.84%. Furniture accounted for 8.52% of total profit.
+
+Office Supplies saw an increase of 25.5% increase in orders with total orders of 5922.
+
+There was a 22.2% increase in orders in the Furniture category. The total order was 2192.
+
+Techonolgy recorded a 13.3% increase in orders. Its total orders was 1695.
+
+Chairs, Phones and Tables were the top 3 sub-categories by sales. 
+
+
 <div align="center">
   <h3>2016</h3>
 </div>
 
-![2016](https://user-images.githubusercontent.com/104911707/193449963-c66ea46b-4fd7-4d7b-8530-a56113326259.png)
+![2016-02](https://user-images.githubusercontent.com/104911707/193450857-d290b5c3-0661-46c6-8a82-487359536abf.png)
 
+**KPIs:**
+* Sales - $733.9K
+* Profit - $93.5K
+* Discount - $519.4
+* Orders - 13K
 
 
 
