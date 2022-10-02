@@ -72,7 +72,7 @@ The following images depict the breakdown of the report above by year.
 * Discount - $315.5
 * Orders - 7581
 
-####Sales
+#### Sales
 
 Technology made the most sales followed by Furniture then Office Supplies.
 
