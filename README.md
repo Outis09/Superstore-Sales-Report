@@ -13,6 +13,7 @@ I analyzed the sales of a Superstore in the United States over a period of four 
 
 * [Sales by Category](#sales-by-category-and-sub-category)
 * [Analysis of least profitable Sub-categories](#analysis-of-least-profitable-sub-categories)
+* [Sales by Geographical location](#sales-by-geographical-location)
 
 <div align="center">
   <h2>Sales by Category and Sub-category</h2>
