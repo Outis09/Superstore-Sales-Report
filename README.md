@@ -50,5 +50,26 @@ The following images depict the breakdown of the report above by year.
 
 ![2013](https://user-images.githubusercontent.com/104911707/193449586-a168f722-a9d7-48e6-80cf-4a826c31f246.png)
 
+<div align="center">
+  <h3>2014</h3>
+</div>
+
+![2014](https://user-images.githubusercontent.com/104911707/193449787-9182447b-9ee6-46f1-a262-068500439b02.png)
+
+
+<div align="center">
+  <h3>2015</h3>
+</div>
+
+![2015](https://user-images.githubusercontent.com/104911707/193449859-6cc302b4-4b21-4c5c-80c7-57100dcc782b.png)
+
+<div align="center">
+  <h3>2016</h3>
+</div>
+
+![2016](https://user-images.githubusercontent.com/104911707/193449963-c66ea46b-4fd7-4d7b-8530-a56113326259.png)
+
+
+
 
 
