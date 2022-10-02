@@ -219,6 +219,27 @@ The reports below represent a breakdown the report above.
 
 ![cent](https://user-images.githubusercontent.com/104911707/193466967-a2c8156d-3722-463b-91a6-3b267e745a46.png)
 
+#### KPIs
+* Sales - $501.2K
+* Profit - $39.7K
+* Discount - $558.3
+* Orders - 8780
+
+#### Top 3 States by Sales
+* Texas
+* Illinois
+* Michigan
+
+#### Bottom 3 States by Sales
+* Kansas
+* South Dakota
+* North Dakota
+
+#### Top 3 Cities by Sales
+* Houston
+* Chicago
+* Detroit
+
 <div align="center">
   <h3>East</h3>
 </div>
@@ -226,11 +247,55 @@ The reports below represent a breakdown the report above.
 ![east](https://user-images.githubusercontent.com/104911707/193467103-d281d71b-818c-4803-bdd9-f8e1008901d7.png)
 
 
+#### KPIs
+* Sales - $678.8K
+* Profit - $91.5K
+* Discount - $414
+* Orders - 11k
+
+#### Top 3 States by Sales
+* New York
+* Pensylvannia
+* Ohio
+
+#### Bottom 3 States by Sales
+* District of Columbia
+* Maine
+* West Virginia
+
+#### Top 3 Cities by Sales
+* New York City
+* Philadelphia
+* Newark
+
 <div align="center">
   <h3>South</h3>
 </div>
 
 ![south](https://user-images.githubusercontent.com/104911707/193467268-b0414856-b758-40ee-969b-a45571540e70.png)
+
+#### KPIs:
+* Sales - $391.7K
+* Profit - $46.7K
+* Discounts - $238.6
+* Orders - 6209
+
+#### Top 3 States by Sales
+* Florida
+* Virginia
+* North Carolina
+
+#### Bottom 3 States by Sales
+* Missisipi
+* Louisiana
+* South Carolina
+
+#### Top 3 Cities by Sales
+* Jacksonville
+* Atlanta
+* Springfield
+
+
 
 <div align="center">
   <h3>West</h3>
@@ -238,5 +303,30 @@ The reports below represent a breakdown the report above.
 
 ![west](https://user-images.githubusercontent.com/104911707/193467339-d9a4c3ed-e3ba-41ae-9ded-3493055fdabe.png)
 
+#### KPIs:
+* Sales - $725.5K
+* Profit - $108.4K
+* Discounts - $350.2
+* Orders - 12K
+
+#### Top 3 States by Saless
+* California
+* Washington
+* Arizona
+
+#### Bottom 3 States by Sales
+* New Mexico
+* Idaho
+* Wyoming
+
+#### Top 3 Cities by State
+* Los Angeles
+* Seattle
+* San Francisco
+
+
+<div align="center">
+    <h2>Sales by Product</h2>
+</div>
 
 
