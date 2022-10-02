@@ -9,8 +9,11 @@ I analyzed the sales of a Superstore in the United States over a period of four 
 * Sales by geograhical location
 * Sales by product
 
+Table of Contents
+* [Sales by Category](https://github.com/Outis09/Superstore-Sales-Report/edit/main/README.md#sales-by-category-and-sub-categorycategory)
+
 <div align="center">
-  <h2>Sales by Category and Sub-category</h2>
+  <h2>[Sales by Category and Sub-category]</h2>
 </div>
 
 ![0001](https://user-images.githubusercontent.com/104911707/193447508-2c75bc6f-c730-49ad-b04c-e6fe23958380.png)
@@ -75,10 +78,10 @@ The Superstore made the most sales in September with $81.8K sales.
 ![2014-02](https://user-images.githubusercontent.com/104911707/193450733-a02ceba9-8a5c-4a3d-9064-10eb323e1069.png)
 
 **KPIs:**
-* Sales - $470K
-* Profit - $61.6K
-* Discount - $327.1
-* Orders - 7979
+* Sales - $470K (decrement of 2.9% from previous year)
+* Profit - $61.6K (increment of 24.4% )
+* Discount - $327.1 (increment of 3.8%)
+* Orders - 7979 (increment of 5.2%)
 
 Furniture made the most sales in 2014 followed by Technology and Office Supplies.
 
@@ -102,10 +105,10 @@ The most sales was recorded in November with $76K sales.
 ![2015](https://user-images.githubusercontent.com/104911707/193449859-6cc302b4-4b21-4c5c-80c7-57100dcc782b.png)
 
 **KPIs:**
-* Sales - $608.5K
-* Profit - $81.7K
-* Discount - $399.1
-* Orders - 9810
+* Sales - $608.5K (increment of 29.5%)
+* Profit - $81.7K (increment of 32.7%)
+* Discount - $399.1 (increment of 22%)
+* Orders - 9810 (increment of 23%)
 
 Technology made the most sales in 2015. It made a total of $226K sales which is an increase of 38.7% from 2014.
 
@@ -131,10 +134,20 @@ Chairs, Phones and Tables were the top 3 sub-categories by sales.
 ![2016-02](https://user-images.githubusercontent.com/104911707/193450857-d290b5c3-0661-46c6-8a82-487359536abf.png)
 
 **KPIs:**
-* Sales - $733.9K
-* Profit - $93.5K
-* Discount - $519.4
-* Orders - 13K
+* Sales - $733.9K (increment of 20.6%)
+* Profit - $93.5K (increment of 14.4%)
+* Discount - $519.4 (increment of 30.1%)
+* Orders - 13K (increment of 32.5%)
+
+Technology had the most sales in 2016 followed by Office Supplies then Furniture.
+
+Technology accounted for 54.2% of total profit. Office Supplies and Furniture accounted for 42.5% and 3.23% respectively.
+
+There was a 30% increase in orders for Office Supplies taking the total orders of Office Supplies in 2016 to 7.7K. Furniture recorded an 11% increase in orders with total orders of 2.4K. Technology also recorded a 39.6% increase in profit with total orders of 2.4K.
+
+Of the sub-categories, Phones had the most sales with $106K followed by Chairs and Binders.
+
+The highest sales in a month was recorded in November. 
 
 
 
