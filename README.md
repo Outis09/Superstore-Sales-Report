@@ -10,7 +10,7 @@ I analyzed the sales of a Superstore in the United States over a period of four 
 * Sales by product
 
 Table of Contents
-* [Sales by Category](https://github.com/Outis09/Superstore-Sales-Report/edit/main/README.md#sales-by-category-and-sub-categorycategory)
+* [Sales by Category](https://github.com/Outis09/Superstore-Sales-Report#sales-by-category-and-sub-category)
 
 <div align="center">
   <h2>[Sales by Category and Sub-category]</h2>
